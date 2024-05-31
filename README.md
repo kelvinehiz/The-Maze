@@ -1,16 +1,18 @@
 # The Maze
 
-The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D navigable world!
+This project is an ALX portfolio project in partial fulfilment for specialization.
+
+The Maze is a 3D Maze game that uses ray casting to render a 2D map into a 3D world!
 
 The Maze was written was written in C ussing SDL2 library. Deveploment was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
 
 ### About SDL2 
 
-Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
+Simple DirectMedia Layer 2 (SDL2) is a cross-platform software development library used for multimedia applications, including games, emulators, and media players. It supports 2D graphics rendering with hardware acceleration, audio playback and recording, and input handling from various devices. SDL2 also offers multi-threading and window management. It is widely used for its performance, portability, and ease of use. SDL2 is open-source, licensed under the zlib license, allowing free use in both open-source and proprietary projects. This versatility makes it a popular choice for creating cross-platform multimedia applications.
 
 ## Instalation 
 ```sh
-$ git clone https://github.com/danielaloperahernandez/The-Maze.git
+ git clone https://github.com/kelvinehiz/The-Maze.git
 ```
 ## Usage 
 * Execute ./maze or type make run 
